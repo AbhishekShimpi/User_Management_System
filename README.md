@@ -40,8 +40,8 @@ MySQL Database
 Clone the repository:
 
 ```
-git clone https://github.com/your-username/User_Management.git
-cd User_Management
+git clone https://github.com/AbhishekShimpi/User_Management_System.git
+cd User_Management_System
 ```
 ## Configure the database:
 Create a MySQL database named userdb.
